@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="220px"
+   height="51px"
+   viewBox="0 0 220 51"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="drawing.svg.2023_02_13_00_59_13.0.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:export-filename="drawing112.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12720"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.4826321"
+     inkscape:cx="76.733078"
+     inkscape:cy="64.649129"
+     inkscape:window-width="1390"
+     inkscape:window-height="1027"
+     inkscape:window-x="1575"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="0" />
+  <defs
+     id="defs12715">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 25.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="220 : 25.5 : 1"
+       inkscape:persp3d-origin="110 : 17 : 1"
+       id="perspective3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.486821;stroke-opacity:0.0103627"
+       id="rect12782"
+       width="63.580772"
+       height="6.9061708"
+       x="78.034988"
+       y="43.955208"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.3581px;font-family:'.DecoType Naskh PUA';-inkscape-font-specification:'.DecoType Naskh PUA Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.02984;stroke-opacity:0.0103627"
+       x="72.275711"
+       y="37.76239"
+       id="text13578"
+       transform="scale(1.0726384,0.93228064)"><tspan
+         sodipodi:role="line"
+         id="tspan13576"
+         x="72.275711"
+         y="37.76239"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Neue Montreal';-inkscape-font-specification:'Neue Montreal Medium';stroke-width:4.02984" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Neue Montreal';-inkscape-font-specification:'Neue Montreal Medium';fill:#000000;stroke:#000000;stroke-opacity:0.0103627"
+       x="105.51073"
+       y="39.007778"
+       id="text271"><tspan
+         sodipodi:role="line"
+         id="tspan269"
+         x="105.51073"
+         y="39.007778"
+         style="font-size:48px">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Neue Montreal';-inkscape-font-specification:'Neue Montreal Medium';fill:#000000;stroke:#000000;stroke-opacity:0.0103627"
+       x="80.083427"
+       y="38.429886"
+       id="text275"><tspan
+         sodipodi:role="line"
+         id="tspan273"
+         x="80.083427"
+         y="38.429886"
+         style="font-size:48px">J</tspan></text>
+  </g>
+</svg>
